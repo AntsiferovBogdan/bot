@@ -23,8 +23,8 @@ Create settings.py, add next settings:
 
     API_KEY = ('API_KEY FROM BOTFATHER')
 
-    USER_EMOJI = [':smiley_cat:', ':smiling_imp:', ':panda_face:', ':dog:', ':boy:', ':boy:',
-                    ':girl:',':mouse:',':frog:',':tiger:',':new_moon_with_face:',':crown:',':alien:']
+    USER_EMOJI = [':smiley_cat:', ':smiling_imp:', ':panda_face:', ':dog:', ':boy:', ':girl:',
+                ':mouse:',':frog:',':tiger:',':new_moon_with_face:',':crown:',':alien:']
 
 Launching
 ---------
@@ -34,4 +34,3 @@ In active virtual environment enter:
 .. code-block:: text
 
     python3 bot.py
-    
