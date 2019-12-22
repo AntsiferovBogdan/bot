@@ -4,7 +4,7 @@ MyBot is a bot for Telegram which make you happy by sending sweety photos.
 
 Installing
 ----------
-Create virtual environment, switch it on and then install requirements:
+Create virtual environment, activate it and then install requirements:
 
 .. code-block:: text
 
